@@ -1,12 +1,12 @@
-
---
+---
 layout: post
 title: "iOS面试题集锦"
 date:   2014-11-07 14:34:25
 categories: HX update
 tags: featured
 image:
---
+
+---
 
 1、Object-c的类可以多重继承么?可以实现多个接口么?Category是什么?重写一个类的方式用继承好还是分类好?为什么?
 
